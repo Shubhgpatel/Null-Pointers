@@ -1,2 +1,2 @@
 # Null-Pointers
-This Git hub repository is for SIH project.
+This is my first github repository.
